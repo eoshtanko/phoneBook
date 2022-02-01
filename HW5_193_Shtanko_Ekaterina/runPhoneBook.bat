@@ -1,0 +1,1 @@
+java --module-path "/Users/miss.ekaterina/Desktop/javafx-sdk-11.0.2/lib" --add-modules javafx.controls,javafx.fxml -jar HW5_193_Shtanko_Ekaterina.jar
